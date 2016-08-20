@@ -9,11 +9,11 @@ If you wish you could send me your feedback at
 ajaykumarmvk@gmail.com
 
 The models are
- -1. Logistic Regression
- -2. Logistic Regression with L1 penalty
- -3. Logistic Regression with L2 penalty
- -4. Probit Regression
- -5. Adaboost with exponential loss
- -6. Random Forests.
+ - Logistic Regression
+ - Logistic Regression with L1 penalty
+ - Logistic Regression with L2 penalty
+ - Probit Regression
+ - Adaboost with exponential loss
+ - Random Forests.
  
  
